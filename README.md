@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akafaneh" alt="akafaneh" /></a> </p>
 
-- 🔭 FE Dev at @LEGO [LEGO Ideas](https://ideas.lego.com/)
+- 🔭 FE Dev at Merkle
 
 - 📝 I'm trying my best to write [https://dev.to/abboud](https://dev.to/abboud)
 
