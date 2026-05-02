@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Abboud 👋</h1>
-<h3 align="center">Senior Frontend Engineer — I solve problems, create ideas, and build mesmerizing web projects ✨</h3>
+<h3 align="center">Frontend Architect & Web Wizard — I solve problems, create ideas, and build mesmerizing web projects ✨</h3>
 
 ---
 
