@@ -15,6 +15,6 @@
 
 Most of my work lives behind login walls, private contracts, or NDAs — the public side of this profile doesn't reflect the full picture.
 
-If you want to see what I can do, **reach out**. I'm happy to walk you through past work, or build something from scratch to demonstrate my skills in whatever direction is relevant to you.
+If you want to see what I can do, **reach out**. I'm happy to talk through what I've built, or create something from scratch to demonstrate my skills in whatever direction is relevant to you.
 
 📬 **ak.afaneh@gmail.com** — don't hesitate.
